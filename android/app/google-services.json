@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863503045491",
+    "project_id": "tugasakhir-d17db",
+    "storage_bucket": "tugasakhir-d17db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863503045491:android:1ff01eb88f42fd99cbab06",
+        "android_client_info": {
+          "package_name": "com.example.tugasakhir_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863503045491-vucjvrh1vket0lfcpt4he08gge03eugf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnshYXWYfDy9mfeBM95FMxt5M27Ean9jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863503045491-vucjvrh1vket0lfcpt4he08gge03eugf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
